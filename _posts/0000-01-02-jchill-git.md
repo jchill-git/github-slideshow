@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Let's go fly a kite! Up to the highest height!
 Use the left arrow to go back!
